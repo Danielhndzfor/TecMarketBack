@@ -9,17 +9,17 @@ Para instalar y configurar TecMarketBack, sigue estos pasos:
 
 ### Instalación de la API
 
-3. Navega al directorio de la API:
+2. Navega al directorio de la API:
     ```bash
     cd TecMarketBack
     ```
 
-4. Instala las dependencias necesarias:
+3. Instala las dependencias necesarias:
     ```bash
     npm install
     ```
 
-5. Inicia la API:
+4. Inicia la API:
     ```bash
     npm run dev
     ```
